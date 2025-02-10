@@ -1,38 +1,40 @@
-# Algoritmo de Recomendação Baseado em uma Abordagem Híbrida
+---
 
-Este repositório contém o código-fonte utilizado na elaboração do artigo. Você pode acessar o artigo completo através do link abaixo:
+# **Algoritmo de Recomendação Baseado em uma Abordagem Híbrida**  
 
-**Artigo:** [Link para o Artigo](https://drive.google.com/file/d/1Q_5vCFNeJS5EoiKhT3UAkP_r7i2aTgMv/view?usp=sharing)
+Este repositório contém o código-fonte utilizado na elaboração do artigo. Você pode acessar o artigo completo através do link abaixo 
+
+📄 **Artigo:** [Link para o Artigo](https://drive.google.com/file/d/1Q_5vCFNeJS5EoiKhT3UAkP_r7i2aTgMv/view?usp=sharing)  
 
 ---
 
-## Instalação
+## **Como Clonar e Executar o Projeto**  
 
-Antes de executar o algoritmo, é necessário instalar as seguintes bibliotecas Python:
+### 📥 **Clonando o Repositório**  
+Para obter uma cópia do projeto em sua máquina, execute o seguinte comando no terminal:  
 
-- pandas
-- numpy
-- faiss
-- tqdm
-- networkx
-- python-louvain
+```bash
+git clone https://github.com/elcioam/algoritmo-recomendacao.git
+cd algoritmo-recomendacao
+```
 
-Você pode instalar todas elas utilizando o pip. Execute o comando abaixo em seu terminal:
+### ⚙ **Instalando as Dependências**  
+Certifique-se de ter o Python instalado. Em seguida, instale as bibliotecas necessárias:  
 
 ```bash
 pip install pandas numpy faiss tqdm networkx python-louvain
 ```
 
-Após realizar o clone do repositório, navegue até o diretório do projeto e execute o arquivo principal:
+### 🚀 **Executando o Algoritmo**  
+Após a instalação das dependências, execute o script principal:  
 
 ```bash
-D_recommendation.py
+python D_recommendation.py
 ```
 
+---
 
-------
+## **Autores**  
 
-
-Aluno: [Élcio Amorim](https://github.com/elcioam)
-
-Professor Orientador: [Michel Pires](https://github.com/mpiress)
+👨‍🎓 **Aluno:** [Élcio Amorim](https://github.com/elcioam)  
+🎓 **Professor Orientador:** [Michel Pires](https://github.com/mpiress)  
