@@ -25,12 +25,20 @@ Certifique-se de ter o Python instalado. Em seguida, instale as bibliotecas nece
 pip install pandas numpy faiss tqdm networkx python-louvain
 ```
 
+
+
+
+
 ### 🚀 **Executando o Algoritmo**  
 Após a instalação das dependências, execute o script principal:  
 
 ```bash
 python D_recommendation.py
 ```
+
+### 🎬 Escolhendo um Filme de Entrada
+Dentro da pasta "base utilizadas", há um arquivo chamado movies10M.csv.
+Esse arquivo contém a base de filmes utilizada pelo algoritmo. Você pode selecionar um filme de entrada (pelo seu respectivo Id) a partir dessa base para testar o sistema de recomendação.
 
 ---
 
