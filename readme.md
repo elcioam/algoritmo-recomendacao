@@ -2,7 +2,7 @@
 
 Este repositório contém o código-fonte utilizado na elaboração do artigo. Você pode acessar o artigo completo através do link abaixo:
 
-**Artigo:** [Link para o Artigo](https://exemplo.com/seu-artigo)
+**Artigo:** [Link para o Artigo](https://drive.google.com/file/d/1Q_5vCFNeJS5EoiKhT3UAkP_r7i2aTgMv/view?usp=sharing)
 
 ---
 
